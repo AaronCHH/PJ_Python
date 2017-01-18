@@ -1,0 +1,7 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\JupyterG]
+
+[HKEY_CLASSES_ROOT\*\shell\JupyterG\command]
+@="C:\\Python27\\ArcGIS10.1\\Scripts\\jupyter-notebook.exe \"%1\""
+

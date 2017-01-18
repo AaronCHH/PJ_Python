@@ -1,0 +1,9 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Brackets]
+@="Open with Brackets"
+"Icon"="C:\\Program Files (x86)\\Brackets\\Brackets.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\Brackets\command]
+@="C:\\Program Files (x86)\\Brackets\\Brackets.exe \"%1\""
+
