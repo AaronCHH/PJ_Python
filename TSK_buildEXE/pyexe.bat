@@ -1,0 +1,1 @@
+C:\Anaconda34\Scripts\build_exe -b 2

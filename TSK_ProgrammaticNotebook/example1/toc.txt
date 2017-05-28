@@ -1,0 +1,24 @@
+ch01_Introduction
+ch02_Beginning Python
+ch03_Basic Data Types: Numbers and Strings
+ch04_Basic Data Types: Lists and Tuples
+ch05_ArcGIS and Python
+ch06_Calling Tools with Arcpy
+ch07_Getting User Input
+ch08_Controlling Flow
+ch09_Decision-Making and Describing Data
+ch10_Repetition: Looping for Geoprocessing
+ch11_Batch Geoprocessing
+ch12_Additional Looping Functions
+ch13_Debugging
+ch14_Error Handling
+ch15_User-Defined Functions
+ch16_User-Defined Modules
+ch17_Reading and Writing with Cursors
+ch18_Dictionaries
+ch19_Reading and Writing Text Files
+ch20_Working with HTML and KML
+ch21_Classes
+ch22_User Interfaces for File and Folder Selection
+ch23_ArcGIS Python GUIs
+ch24_Mapping Module

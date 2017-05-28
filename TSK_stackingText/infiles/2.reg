@@ -1,0 +1,7 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Jupyter2]
+
+[HKEY_CLASSES_ROOT\*\shell\Jupyter2\command]
+@="C:\\Anaconda2\\python.exe C:\\Anaconda2\\cwp.py C:\\Anaconda2 \"C:/Anaconda2/python.exe\" \"C:/Anaconda2/Scripts/jupyter-notebook-script.py\" \"%1\""
+
