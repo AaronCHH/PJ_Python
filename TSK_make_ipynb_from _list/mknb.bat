@@ -1,0 +1,1 @@
+python36 E:\GoogleDriveDPRC\USER\PORTABLE\MYDEV\bmkipynb.py %1

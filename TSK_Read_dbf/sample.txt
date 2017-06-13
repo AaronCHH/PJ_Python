@@ -1,0 +1,7 @@
+In [2]: import pandas as pd
+
+In [3]: from simpledbf import Dbf5
+
+In [4]: dbf = Dbf5('test.dbf')
+
+In [5]: df = dbf.to_dataframe()
